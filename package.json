@@ -1,0 +1,26 @@
+{
+    "name": "lanzou-2024.5.3",
+    "version": "1.0.0",
+    "description": "蓝奏云解析，支持文件和目录解析",
+    "main": "js/lanzou.js",
+    "types": "src/lanzou.ts",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iuroc/lanzou-2024.5.3.git"
+    },
+    "keywords": [
+        "lanzou-cloud",
+        "url-parsing",
+        "download"
+    ],
+    "author": "https://github.com/iuroc",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iuroc/lanzou-2024.5.3/issues"
+    },
+    "homepage": "https://github.com/iuroc/lanzou-2024.5.3#readme",
+    "dependencies": {
+        "vanjs-core": "^1.5.0"
+    }
+}
